@@ -44,11 +44,6 @@ Passionate about building scalable web applications, solving DSA problems, and e
 - Building real-world projects
 - Strengthening **Data Structures & Algorithms**
 
----
-
-## 📂 Projects (Add when ready)
-- 🔹 *Project Name* – short summary  
-- 🔹 *Project Name* – short summary  
 
 ---
 
